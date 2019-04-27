@@ -1,10 +1,13 @@
-# gesture-keyboard
-Gesture keyboard is a library used to convert accelerometer data to a sequence of characters and sentences.
+# gesture-keyboard-wifi
+Gesture keyboard is a library used to convert accelerometer data to a sequence of characters and sentences. 
+The key contrasts between the original work and this fork: 
+1) The communication method between the harware and the software (here WiFi is being used, originally it is Bluetooth).
+2) Hardware setup is intended to be assembled as a wearable device.
 
 If you want to implement or customize this yourself, [check out the tutorial below.](#how-to-use-the-library)
 
 ## Demostration Video
-[Click here to watch the demonstration video](https://www.youtube.com/watch?v=OjTNS2ZKqRc)
+[]()
 
 ## Module
 
